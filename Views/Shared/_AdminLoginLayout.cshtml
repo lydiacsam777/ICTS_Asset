@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>ICTSASSETS - @ViewData["Title"]</title>
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="/assets/css/animate.min.css" />
+	<link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet' />
+	<link rel="stylesheet" href="/assets/css/slick.min.css" />
+	<link rel="stylesheet" href="/assets/css/styles.css" asp-append-version="true" />
+
+	
+    <script src="~/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/js/jquery.min.js"></script>
+     <script src="~/assets/js/test/jquery.validate.min.js"></script>
+</head>
+
+<body>
+	<section class="login-section">
+		
+		<div class="title-box">
+		</div>
+		<div class="login-wrap">
+            <img alt="logo" src="/assets/images/university-logo.svg"></br></br>
+			@RenderBody()
+		</div>
+	</section>
+
+
+
+	<script src="/assets/js/bootstrap.bundle.min.js"></script>
+	@*<script src="/assets/js/jquery-3.6.0.min.js"></script>*@
+	<script src="/assets/js/slick.min.js"></script>
+	@*<script src="/assets/js/main.js"></script>*@
+
+
+</body>
+
+</html>
+@{
+if (TempData["Message"] != null)
+    {
+        <div class="alert-positive" id="ToastMessage"><span class="fa fa-check" style="margin-right:5px;"></span>@TempData["Message"]</div>
+        <script>
+            setTimeout(function () { $("#ToastMessage").fadeIn(); }, 1);
+            setTimeout(function () { $("#ToastMessage").fadeOut(); }, 4000);
+        </script>
+    }
+    if (TempData["EMessage"] != null)
+    {
+        <div class="alert-negetive" id="ToastMessage"><span class="fa fa-times" style="margin-right:5px;"></span>@TempData["EMessage"]</div>
+        <script>
+            setTimeout(function () { $("#ToastMessage").fadeIn(); }, 1);
+            setTimeout(function () { $("#ToastMessage").fadeOut(); }, 4000);
+        </script>
+    }
+}
+<style>
+    .alert-positive {
+        /*position: fixed;
+        top: 55px;*/
+        /*bottom: 0px;*/
+        /* bottom: 55px;*/
+        height: 55px;
+        width: 28%;
+        /*right: 38%;*/
+        border-radius: 2px;
+        text-align: center;
+        z-index: 2147483647;
+        transition: right 1s;
+        background-color: green;
+        color: white;
+        padding-top: 1%;
+        padding-left: 2%;
+        padding-right: 2%;
+        padding-bottom: 1%;
+        opacity: .9;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .alert-negetive {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        /*position: fixed;
+        top: 55px;*/
+        /*bottom: 0px;*/
+        /*bottom: 55px;*/
+        height: 60px;
+        width: 30%;
+        /*right: 38%;*/
+        border-radius: 2px;
+        text-align: center;
+        z-index: 2147483647;
+        transition: right 1s;
+        background-color: red;
+        color: white;
+        padding-top: 1%;
+        padding-left: 2%;
+        padding-right: 2%;
+        padding-bottom: 1%;
+        opacity: .7;
+    }
+
+    label.error {
+        width: 100%;
+        color: red;
+    }
+
+    .fa_style_aprv {
+        font-size: 22px;
+        color: #6a96bb;
+    }
+</style>

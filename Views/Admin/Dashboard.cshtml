@@ -1,0 +1,34 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLoginLayout.cshtml";
+}
+
+@* <form id="form" action="" method="post"> *@
+   <a href="/admin/Asset">
+       <button type="submit" class="btn btn-primary btn-block mb-4">Asset</button</a> 
+    <button type="submit" class="btn btn-primary btn-block mb-4">Helpdesk</button>
+@*     </form> *@
+
+
+    
+
+
+<style>
+    #form .form-outline {
+        position: relative;
+    }
+
+        #form .form-outline label.error {
+            color: #fff;
+            font-size: .7em;
+            position: absolute;
+            right: 16px;
+            bottom: -8px;
+            padding: 5px 10px;
+            line-height: 10px;
+            text-align: right;
+            background-color: #ce010a;
+            border-radius: 5px;
+            box-shadow: 0 0 5px #ddd;
+            width: auto;
+        }
+</style>

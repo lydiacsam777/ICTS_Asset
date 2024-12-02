@@ -1,0 +1,131 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ICTS ASSETS -@ViewData["Title"]</title>
+     
+
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/css/animate.min.css" />
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet' />
+    <link rel="stylesheet" href="/assets/css/icomoon.css" />
+    <link rel="stylesheet" href="/assets/css/dataTables.bootstrap5.min.css" />
+    <link rel="stylesheet" href="/assets/css/styles.css" asp-append-version="true" />
+
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/js/jquery.min.js"></script>
+     <script src="/assets/js/test/jquery.validate.min.js"></script>
+   
+
+</head>
+<body>
+    <div class="sidebar">
+        <div class="logo-details">
+            <a href="#"><img alt="#" src="/assets/images/logo.svg"></a>
+        </div>
+        <!--ul menus here..-->
+      @*   @{
+            await Html.RenderPartialAsync("SideMenuPartial_Admin");
+        } *@
+
+        <ul style="margin-top:30px;display: inline-block;width: 100%;" class="nav-links">
+            <li><a href="/admin/logout" data-bs-toggle="modal" data-bs-target="#logout"><i class='icon-shut_down'></i> Logout</a></li>
+        </ul>
+    </div>
+    <section class="home-section">
+        <nav>
+            <div class="search-box">
+                <div class="sidebar-button">
+                    <i class='bx bx-menu sidebarBtn'></i>
+                </div>
+               @* <input type="text" placeholder="Type in to search">*@
+            </div>
+            <div class="profile-details">
+                <ul class="profile-wrapper">
+                   @* <li><a href="#"><img alt="notif" src="/assets/images/noti.svg"></a><span class="badg"></span></li>
+                    <li><a href="#"><img alt="message" src="/assets/images/message.svg"></a><span class="badg"></span></li>
+                   *@ <li>
+                        <div class="profile">
+                            <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" data-hover="dropdown" data-close-others="true" aria-expanded="false"><img src="/assets/images/user_icon.png"></a>
+
+                            <ul class="dropdown-menu dropdown-menu-default">
+                                <li>
+                                    <h4>Farhan Fasil</h4>
+                                    <span>Admin</span>
+                                </li>
+@*                                <li><a href="#"><i class='icon-agent'></i> Profile</a></li>
+                                <li><a href="#"><i class='icon-users'></i> Notifications</a></li>
+                                <li><a href="#"><i class='icon-no'></i> Lock Screen</a></li>*@
+                                <li><a href="#" data-bs-toggle="modal" data-bs-target="#logout"><i class='icon-shut_down'></i> Logout</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        @RenderBody()
+    </section>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="logout" tabindex="-1" role="dialog" aria-labelledby="logout" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <a class="close" href="#" data-bs-dismiss="modal" aria-label="Close">
+                    <i class="icon-close"></i>
+                </a>
+                <div class="modal-body">
+                    <h2>Are you sure you want<br> to log out?</h2>
+                    <button type="button" class="btn" data-bs-dismiss="modal">No</button>
+                    <button id="btnLogoutYes" type="button" class="btn btn-y">Yes</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal -->
+
+
+    <script src="/assets/js/slick.min.js"></script>
+    <script src="/assets/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/js/dataTables.bootstrap5.min.js"></script>
+    <script src="/assets/js/main.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("#btnLogoutYes").click(function(){
+                location.href = "/admin/logout";
+            });
+        });
+
+        function autoselect_Menu() {
+            var wURL = window.location.pathname + window.location.search;
+            const urlParams = new URLSearchParams(window.location.search);
+            var doctype = urlParams.get('doctype');
+
+            var atag = "a[id='menu_"+doctype+"']";
+            $(atag).addClass("active");
+        }
+        autoselect_Menu();
+
+    </script>
+</body>
+</html>
+@{
+if (TempData["Message"] != null)
+    {
+        <div class="alert-positive" id="ToastMessage"><span class="fa fa-check" style="margin-right:5px;"></span>@TempData["Message"]</div>
+        <script>
+            setTimeout(function () { $("#ToastMessage").fadeIn(); }, 1);
+            setTimeout(function () { $("#ToastMessage").fadeOut(); }, 2000);
+        </script>
+    }
+    if (TempData["EMessage"] != null)
+    {
+        <div class="alert-negetive" id="ToastMessage"><span class="fa fa-times" style="margin-right:5px;"></span>@TempData["EMessage"]</div>
+        <script>
+            setTimeout(function () { $("#ToastMessage").fadeIn(); }, 1);
+            setTimeout(function () { $("#ToastMessage").fadeOut(); }, 3000);
+        </script>
+    }
+}

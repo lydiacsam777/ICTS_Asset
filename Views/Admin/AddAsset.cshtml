@@ -1,0 +1,116 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<h1>All Properties</h1>
+
+<div class="title-box d-flex justify-content-between">
+    <div class="d-flex">
+      @*   <i class='@docSettings.DM_DocIcon'></i><h1>@docSettings.DM_FormName</h1>
+
+        <a href="/admin/MasterList?doctype=@docSettings.DM_Doc_DocType" class="btn">View All Properties</a> *@
+
+        <i class=""></i><h1>Add Asset</h1>
+        <a href="" class="btn">View All Assets</a>
+        @if (TempData["Message"] != null)
+        {
+            <div class="success-wrap active"><img alt="success" src="/assets/images/university-logo.svg"><h5>SUCCESS <br> <span>New Asset added</span></h5><a href="#" class="clos"><i class='icon-close'></i></a></div>
+        }
+    </div>
+</div>
+
+
+<div class="home-content addnw addprop">
+    <div class="card-box">
+        <h5>Add Asset</h5>
+        <div class="row mb-3">
+            <div class="col required">
+                <label for="AST_SystemName" class="form-label">System Name</label>
+                <input type="text" class="form-control" id="AST_SystemName" name="AST_SystemName" placeholder="System Name" value="">
+            </div>
+            <div class="col required">
+                <label for="AST_Location" class="form-label">Location</label>
+                <input type="text" class="form-control" id="AST_Location" name="AST_Location" placeholder="Location" value="">
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col required">
+                <label for="AST_Role" class="form-label">Role</label>
+                <input type="text" class="form-control" id="AST_Role" name="AST_Role" placeholder="System Name" value="">
+            </div>
+            <div class="col required">
+                <label for="AST_IPAddress" class="form-label">IP Address</label>
+                <input type="text" class="form-control" id="AST_IPAddress" name="AST_IPAddress" placeholder="IP Address" value="">
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col required">
+                <label for="AST_MACAddress" class="form-label">MAC Address</label>
+                <input type="text" class="form-control" id="AST_MACAddress" name="AST_MACAddress" placeholder="MAC Address" value="">
+            </div>
+            <div class="col required">
+                <label for="AST_ServiceTag" class="form-label">Service Tag</label>
+                <input type="text" class="form-control" id="AST_ServiceTag" name="AST_ServiceTag" placeholder="Service Tag" value="">
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col required">
+                <label for="AST_SystemModel" class="form-label">System Model</label>
+                <input type="text" class="form-control" id="AST_SystemModel" name="AST_SystemModel" placeholder="System Model" value="">
+            </div>
+            <div class="col required">
+                <label for="AST_HDD" class="form-label">HDD</label>
+                <input type="text" class="form-control" id="AST_HDD" name="AST_HDD" placeholder="HDD" value="">
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col required">
+                <label for="AST_RAM" class="form-label">RAM</label>
+                <input type="text" class="form-control" id="AST_RAM" name="AST_RAM" placeholder="RAM" value="">
+            </div>
+            <div class="col required">
+                <label for="AST_KeyboardNumber" class="form-label">Keyboard Number</label>
+                <input type="text" class="form-control" id="AST_KeyboardNumber<" name="AST_KeyboardNumber" placeholder="Keyboard Number<" value="">
+            </div>
+            <div class="col required">
+                <label for="AST_KeyboardSerial" class="form-label">Keyboard Serial</label>
+                <input type="text" class="form-control" id="AST_KeyboardSerial" name="AST_KeyboardSerial" placeholder="Keyboard Serial" value="">
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col required">
+                <label for="AST_MouseSerial" class="form-label">Mouse Serial</label>
+                <input type="text" class="form-control" id="AST_MouseSerial" name="AST_MouseSerial" placeholder="Mouse Serial" value="">
+            </div>
+            <div class="col required">
+                <label for="AST_Monitor" class="form-label">Monitor</label>
+                <input type="text" class="form-control" id="AST_Monitor" name="AST_Monitor" placeholder="Monitor" value="">
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col required">
+                <label for="AST_MonitorSerial" class="form-label">Monitor Serial</label>
+                <input type="text" class="form-control" id="AST_MonitorSerial" name="AST_MonitorSerial" placeholder="Monitor Serial" value="">
+            </div>
+            <div class="col required">
+                <label for="AST_Remarks" class="form-label">Remarks</label>
+                <textarea type="text" class="form-control" id="AST_Remarks" name="AST_Remarks" placeholder="Remarks" value=""></textarea>
+            </div>
+        </div>
+
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary" id="submit_form">Submit</button>
+           @*  @if (editMode)
+            {
+                <a href="/admin/MasterList?doctype=@docSettings.DM_Doc_DocType" class="btn btn-cancel">Cancel</a>
+            } *@
+        </div>
+    </div>
+    </div>

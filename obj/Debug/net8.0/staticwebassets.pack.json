@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ICTS ASSETS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ICTS ASSETS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\css\\rte_theme_default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\rte_theme_default.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\css\\sumoselect.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\sumoselect.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\11d164da9b46e6f7955e396757e5ca70.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\11d164da9b46e6f7955e396757e5ca70.eot"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\11d164da9b46e6f7955e396757e5ca70.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\11d164da9b46e6f7955e396757e5ca70.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\11d164da9b46e6f7955e396757e5ca70.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\11d164da9b46e6f7955e396757e5ca70.ttf"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\11d164da9b46e6f7955e396757e5ca70.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\11d164da9b46e6f7955e396757e5ca70.woff"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\11d164da9b46e6f7955e396757e5ca70.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\11d164da9b46e6f7955e396757e5ca70.woff2"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\28f70728be1cb6dc87a8903182044dfd.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\28f70728be1cb6dc87a8903182044dfd.eot"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\28f70728be1cb6dc87a8903182044dfd.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\28f70728be1cb6dc87a8903182044dfd.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\28f70728be1cb6dc87a8903182044dfd.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\28f70728be1cb6dc87a8903182044dfd.ttf"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\28f70728be1cb6dc87a8903182044dfd.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\28f70728be1cb6dc87a8903182044dfd.woff"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\28f70728be1cb6dc87a8903182044dfd.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\28f70728be1cb6dc87a8903182044dfd.woff2"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\CRC25.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CRC25.woff"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\CRC35.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CRC35.woff"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\CRC55.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CRC55.woff"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\CRC65.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CRC65.woff"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\addaw.png",
+      "PackagePath": "staticwebassets\\assets\\images\\addaw.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\agent.png",
+      "PackagePath": "staticwebassets\\assets\\images\\agent.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\award.png",
+      "PackagePath": "staticwebassets\\assets\\images\\award.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\b3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\b3.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\bed-room.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\bed-room.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\ip.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ip.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\logo_sub.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_sub.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\logo_sub.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo_sub.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\message.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\message.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\noti.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\noti.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\recbanner.png",
+      "PackagePath": "staticwebassets\\assets\\images\\recbanner.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\search.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\srchz.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\srchz.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\success.png",
+      "PackagePath": "staticwebassets\\assets\\images\\success.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\university-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\university-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\user_icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\images\\vdbg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\vdbg.png"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\app.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\bootstrap-material-datetimepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\bootstrap-material-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\jquery.sumoselect.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\jquery.sumoselect.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\test\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\test\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\test\\jquery.quicksearch.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\test\\jquery.quicksearch.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\New folder\\test\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\New folder\\test\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\all_plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\all_plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\bootstrap-material-datetimepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-material-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\editable-select.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editable-select.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\jquery.sumoselect.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.sumoselect.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\moment.js",
+      "PackagePath": "staticwebassets\\assets\\js\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\rte.js",
+      "PackagePath": "staticwebassets\\assets\\js\\rte.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\test\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\test\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\test\\jquery.quicksearch.js",
+      "PackagePath": "staticwebassets\\assets\\js\\test\\jquery.quicksearch.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\test\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\test\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\assets\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\unni\\source\\repos\\ICTS ASSETS\\ICTS ASSETS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ICTS ASSETS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ICTS ASSETS.props",
+      "PackagePath": "build\\ICTS ASSETS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ICTS ASSETS.props",
+      "PackagePath": "buildMultiTargeting\\ICTS ASSETS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ICTS ASSETS.props",
+      "PackagePath": "buildTransitive\\ICTS ASSETS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

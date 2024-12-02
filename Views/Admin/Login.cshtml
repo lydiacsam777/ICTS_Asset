@@ -1,0 +1,88 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLoginLayout.cshtml";
+}
+<h1><span>Sign in</span> to your account</h1>
+<form id="form" action="/admin/login" method="post">
+    <!-- Email input -->
+    <div class="form-outline mb-3">
+        <label class="form-label" for="uname">Username</label>
+        <input type="email" id="uname" name="Username" placeholder="example@domain.com" class="form-control" />
+    </div>
+
+    <!-- Password input -->
+    <div class="form-outline mb-3">
+        <label class="form-label" for="pswrd">Password</label>
+        <input type="password" id="pswrd" name="Password" placeholder="*********" class="form-control" />
+    </div>
+
+    <!-- 2 column grid layout for inline styling -->
+    <div class="form-outline mb-3 d-flex justify-content-between">
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="remem" name="keeplogin" checked />
+            <label class="form-check-label" for="remem"> Keep Sign in </label>
+        </div>
+      @*   <a href="/admin/forgot-password">Forgot password?</a> *@
+    </div>
+
+    <!-- Submit button -->
+    <button type="submit" class="btn btn-primary btn-block mb-4">LOGIN</button>
+
+</form>
+<script>
+    $(document).ready(function () {
+
+        $("#form").validate({
+            rules: {
+
+                Username: {
+                    required: true,
+                    email: true
+                },
+
+                Password: {
+                    required: true,
+                    minlength: 1,
+
+                }
+
+            },
+            messages: {
+                Password: { required: "*Password Required" },
+                Username: {
+
+                    required: "Enter Username",
+                    email: "Incorrect Email"
+                }
+
+            },
+            submitHandler: function (form) {
+                form.submit();
+            }
+
+        });
+    });
+
+
+
+
+</script>
+<style>
+    #form .form-outline {
+        position: relative;
+    }
+
+        #form .form-outline label.error {
+            color: #fff;
+            font-size: .7em;
+            position: absolute;
+            right: 16px;
+            bottom: -8px;
+            padding: 5px 10px;
+            line-height: 10px;
+            text-align: right;
+            background-color: #ce010a;
+            border-radius: 5px;
+            box-shadow: 0 0 5px #ddd;
+            width: auto;
+        }
+</style>

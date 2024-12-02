@@ -1,0 +1,16 @@
+<svg id="Icons_Message" data-name="Icons/Message" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.118" height="19.118" viewBox="0 0 19.118 19.118">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M9.634,19.118c-1.425,0-1.987-1.1-2.638-2.366-.084-.164-.171-.334-.261-.5H0V0H19.117V16.25h-6.58c-.142.263-.267.509-.388.748C11.5,18.275,11.074,19.118,9.634,19.118ZM1.912,1.912V14.338h5.84c.27.51.472.892.626,1.185a9.182,9.182,0,0,0,.751,1.312l.159.231a.388.388,0,0,0,.347.17.449.449,0,0,0,.35-.218l.42-.693c.556-.916.556-.916.873-1.511l.255-.477h5.674V1.912Z"/>
+    </clipPath>
+  </defs>
+  <rect id="Icon_Grid" data-name="Icon Grid" width="19.118" height="19.118" fill="none"/>
+  <g id="Group_10" data-name="Group 10" transform="translate(0 0)">
+    <path id="Mask-2" data-name="Mask" d="M9.634,19.118c-1.425,0-1.987-1.1-2.638-2.366-.084-.164-.171-.334-.261-.5H0V0H19.117V16.25h-6.58c-.142.263-.267.509-.388.748C11.5,18.275,11.074,19.118,9.634,19.118ZM1.912,1.912V14.338h5.84c.27.51.472.892.626,1.185a9.182,9.182,0,0,0,.751,1.312l.159.231a.388.388,0,0,0,.347.17.449.449,0,0,0,.35-.218l.42-.693c.556-.916.556-.916.873-1.511l.255-.477h5.674V1.912Z" transform="translate(0)"/>
+    <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(0)" clip-path="url(#clip-path)">
+      <g id="Color_Flat_Dark_Shade_600" data-name="Color/Flat/Dark Shade/600" transform="translate(0 0)">
+        <rect id="Rectangle" width="19.118" height="19.118" fill="#63696f"/>
+      </g>
+    </g>
+  </g>
+</svg>

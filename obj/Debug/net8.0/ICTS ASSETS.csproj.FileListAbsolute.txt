@@ -1,0 +1,39 @@
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\appsettings.json
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\ICTS ASSETS.staticwebassets.runtime.json
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\ICTS ASSETS.exe
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\ICTS ASSETS.deps.json
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\ICTS ASSETS.runtimeconfig.json
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\ICTS ASSETS.dll
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\ICTS ASSETS.pdb
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.csproj.AssemblyReference.cache
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.AssemblyInfoInputs.cache
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.AssemblyInfo.cs
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.csproj.CoreCompileInputs.cache
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.RazorAssemblyInfo.cache
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.RazorAssemblyInfo.cs
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\staticwebassets\msbuild.ICTS ASSETS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\staticwebassets\msbuild.build.ICTS ASSETS.props
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ICTS ASSETS.props
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ICTS ASSETS.props
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\scopedcss\bundle\ICTS ASSETS.styles.css
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\scopedcss\projectbundle\ICTS ASSETS.bundle.scp.css
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASS.B67D6FA0.Up2Date
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.dll
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\refint\ICTS ASSETS.dll
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.pdb
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ICTS ASSETS.genruntimeconfig.cache
+C:\Users\unni\source\repos\ICTS ASSETS\ICTS ASSETS\obj\Debug\net8.0\ref\ICTS ASSETS.dll
